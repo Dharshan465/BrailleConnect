@@ -5,7 +5,10 @@ BrailleConnect: Innovating inclusivity with an app that converts text, images, a
 
 TEAM MEMBERS
 
-1)Dharshan S     2021506018  \n
-2)Arun N         2021506013  \n
-3)Hemnath N M    2021506026  \n
+1)Dharshan S     2021506018  
+
+2)Arun N         2021506013  
+
+3)Hemnath N M    2021506026  
+
 4)ABINAYA S      2021506002  
