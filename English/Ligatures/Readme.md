@@ -1,0 +1,1 @@
+ligatures : a thing used for tying or binding something tightly.
